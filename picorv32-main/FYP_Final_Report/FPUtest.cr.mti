@@ -1,0 +1,23 @@
+C:/Users/mcs/OneDrive/Desktop/FYP_Final_Report/fpu.v {1 {vlog -work work C:/Users/mcs/OneDrive/Desktop/FYP_Final_Report/fpu.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module fpu
+-- Compiling module fp_add_sub
+-- Compiling module fp_multiply
+-- Compiling module fp_divide
+-- Compiling module fp_minmax
+-- Compiling module fp_sqrt
+-- Compiling module fp_compare
+-- Compiling module fp_to_int
+-- Compiling module int_to_fp
+
+Top level modules:
+	fpu
+
+} {} {}} C:/Users/mcs/OneDrive/Desktop/FYP_Final_Report/fputb.v {1 {vlog -work work C:/Users/mcs/OneDrive/Desktop/FYP_Final_Report/fputb.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module fpu_tb
+
+Top level modules:
+	fpu_tb
+
+} {} {}}
